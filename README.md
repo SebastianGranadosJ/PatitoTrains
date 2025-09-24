@@ -45,7 +45,7 @@ If you want to contribute to this project, follow these steps:
 ## Credits
 
 - Developers:
-  - [Sebastian Granados (Systems Engineering Student UPB)](https://github.com/SebastianGranadosJ)
+  - [Juan Sebastian Granados Jaimes (Systems Engineering Student UPB)](https://github.com/SebastianGranadosJ)
   - [Raúl Lozano (Systems Engineering Student UPB)](https://github.com/RaulLzn)
 
 ## License
