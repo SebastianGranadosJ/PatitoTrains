@@ -1,4 +1,4 @@
-# 🚆 Passenger Train Management System
+#  Passenger Train Management System
 
 This project is a system developed in **Java** to manage passenger trains.  
 It uses **JavaFX** for user interfaces, **RMI** for server-client communication, implements custom data structures, and uses **JSON** as a database to manage information.  
@@ -24,7 +24,7 @@ It uses **JavaFX** for user interfaces, **RMI** for server-client communication,
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 1. Clone the repository:  
    ```bash
@@ -33,13 +33,13 @@ It uses **JavaFX** for user interfaces, **RMI** for server-client communication,
 3.  Run the centralized server.  
 4.  Run the different modules as needed.  
 
-## 🚀 Usage
+##  Usage
 
 -  Log in to the corresponding module.  
 -  Explore the available options to manage trains, tickets, and boardings.  
 -  Perform tests with different scenarios to verify the system's functionality.  
 
-## 🤝 Contribution
+##  Contribution
 
 If you want to contribute to this project, follow these steps:
 
@@ -49,7 +49,7 @@ If you want to contribute to this project, follow these steps:
 4.  Push to the branch: `git push origin feature/new_feature`  
 5.  Submit a pull request.  
 
-## 👥 Credits
+##  Credits
 
 - 👨‍💻 [Juan Sebastian Granados Jaimes (Systems Engineering Student UPB)](https://github.com/SebastianGranadosJ)  
 - 👨‍💻 [Raúl Lozano (Systems Engineering Student UPB)](https://github.com/RaulLzn)  
