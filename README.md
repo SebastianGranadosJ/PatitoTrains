@@ -14,13 +14,13 @@ It uses **JavaFX** for user interfaces, **RMI** for server-client communication,
   - 🚉 **Boarding Module:** Handle passenger boarding processes.
 
 - **Graphs and Algorithms:**
-  - 🗺️ Graphs represent train routes.
-  - 📐 Algorithms to calculate the shortest route regardless of the passenger's location.
+  -  Graphs represent train routes.
+  -  Algorithms to calculate the shortest route regardless of the passenger's location.
 
 - **Technologies used:**
-  - 🎨 **JavaFX:** User interfaces.
-  - 🌐 **RMI:** Client-server communication.
-  - 📂 **JSON:** Database to store and manage information.
+  -  **JavaFX:** User interfaces.
+  -  **RMI:** Client-server communication.
+  -  **JSON:** Database to store and manage information.
 
 ---
 
@@ -29,25 +29,25 @@ It uses **JavaFX** for user interfaces, **RMI** for server-client communication,
 1. Clone the repository:  
    ```bash
    git clone https://github.com/RaulLzn/PatitoTrains.git
-2. 🖥️ Open the project in your favorite IDE.  
-3. ⚡ Run the centralized server.  
-4. 📦 Run the different modules as needed.  
+2.  Open the project in your favorite IDE.  
+3.  Run the centralized server.  
+4.  Run the different modules as needed.  
 
 ## 🚀 Usage
 
-- 🔑 Log in to the corresponding module.  
-- 📋 Explore the available options to manage trains, tickets, and boardings.  
-- 🧪 Perform tests with different scenarios to verify the system's functionality.  
+-  Log in to the corresponding module.  
+-  Explore the available options to manage trains, tickets, and boardings.  
+-  Perform tests with different scenarios to verify the system's functionality.  
 
 ## 🤝 Contribution
 
 If you want to contribute to this project, follow these steps:
 
-1. 🍴 Fork the project.  
-2. 🌱 Create a new branch: `git checkout -b feature/new_feature`  
-3. 💾 Make your changes and commit: `git commit -am 'Add new feature'`  
-4. 📤 Push to the branch: `git push origin feature/new_feature`  
-5. 🔄 Submit a pull request.  
+1.  Fork the project.  
+2.  Create a new branch: `git checkout -b feature/new_feature`  
+3.  Make your changes and commit: `git commit -am 'Add new feature'`  
+4.  Push to the branch: `git push origin feature/new_feature`  
+5.  Submit a pull request.  
 
 ## 👥 Credits
 
